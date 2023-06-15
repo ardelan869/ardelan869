@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/852630017404960848)](https://discord.com/users/852630017404960848)
+[![Discord Presence](https://lanyard.cnrad.dev/api/852630017404960848?hideDiscrim=true)](https://discord.com/users/852630017404960848)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vintage-dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ardelan869)
